@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>CONTINATION ON MY WEBPAGE</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+    <body style="background-color: yellow;">
+        <div class="content" style="margin-top: 30px;">
+            <p style="font-size: 30px; ">
+        <img src="i3.jpeg" alt="image not found" height="80px" width="100px">
+        HERE ARE SOME OF THE TECH COURSES YOU WILL LIKE TO TRY!!
+            <img src="i3.jpeg" alt="image not found" height="80px" style="float: right;" width="100px">
+        </p>
+        <div class="container">
+            <div class="jumbotron jumbotron-fluid bg-primary px-4">
+                <h3>Computer Science</h3>
+                <p>A good course for beginners, as computer science is the foundation of the tech industry.</p>
+                <a class="btn btn-primary" href="https://www.mtu.edu/cs/what/" style="border: 2px solid white;">Learn more</a>
+            </div>
+
+            <div class="jumbotron jumbotron-fluid bg-danger px-4">
+                <h3>Data Science</h3>
+                <p> It involves collecting, processing, and analyzing large amounts of data to gain useful information and predictions.</p>
+                <a class="btn btn-danger" href="https://www.ibm.com/topics/data-science"style="border: 2px solid white;">Learn more</a>
+            </div>
+
+            <div class="jumbotron jumbotron-fluid bg-success px-4">
+                <h3>Machine Learning</h3>
+                <p>It involves developing and implementing machine learning algorithms to automate and improve processes.</p>
+                <a class="btn btn-success" href="https://www.datacamp.com/blog/what-is-machine-learning" style="border: 2px solid white;">Learn more</a>
+            </div>
+
+            <div class="jumbotron jumbotron-fluid bg-secondary px-4">
+                <h3>Data Visualization</h3>
+                <p>It involves presenting data in a visually understandable form using graphs, charts, and dashboards. </p>
+                <a class="btn btn-secondary" href="https://www.tableau.com/visualization/what-is-data-visualization" style="border: 2px solid white;">Learn more</a>
+            </div>
+
+            <div class="jumbotron jumbotron-fluid bg-light px-4">
+                <h3>Business Intelligence</h3>
+                <p>It involves analyzing business data to support managerial decision-making</p>
+                <a class="btn btn-light" href="https://www.techtarget.com/searchbusinessanalytics/definition/business-intelligence-BI" style="border: 2px solid white;">Learn more</a>
+            </div>
+            <ul class="pagination">
+                <li class="page-item">
+                    <a class="page-link" href="https://melihyumak.medium.com/revolutionizing-front-end-development-the-purecode-ai-advantage-5524ca3bc63b">prev</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="file:///C:/Users/DELL/Desktop/ACP/project17/B22">1</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="https://www.nigeriajob.com/recruiter/144963">2</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" href="https://www.futurelearn.com/info/blog/courses-for-tech-beginners">3</a>
+                </li>
+            </ul>
+        </div>
+        </div>

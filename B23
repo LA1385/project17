@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>CONTINATION ON MY WEBPAGE</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+    <body style="background-image: url(i4.jpeg);
+    background-repeat: no-repeat; background-size: cover;">
+
+    <h1 style="text-align: center;">السلام عليكم ورحمة الله وبركاته</h1>
+    <h2 style="text-align: center;">AL- HILAL Institute of Quran And Arabic Learning</h2>
+    <div class="container m-5">
+        <div class="card" style="width: 18rem; background-color: black;">
+            <img class="card-img-top" src="i3.jpg.png" alt="image not found">
+            <div class="card-body" style="color: rgba(76, 0, 255, 0.842);">
+                <h4 class="card-title">UserName</h4>
+                <h4 class="card-title">Phone Number</h4>
+                <p class="card-text">
+                    Motto: Make Quran your guidance throughout your life.
+                </p>
+                <a href="#" class="btn btn-primary">see profile</a>
+
+                <footer>
+                    <p>Fill in your details above and ensure that you enroll as quickly as possible. Thank you very much.</p>
+                </footer>
+                
+            </div>
+        </div>
+    </div>
+
+    </body>

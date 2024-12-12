@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>CONTINATION ON MY WEBPAGE</title>
+    <meta charset="utf-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js">
+
+    </script>
+    <body style="background-color: yellow;">
+        <main>
+            <h1 style="color: white; margin-top: 15%; text-align: center;">
+                <img src="i1.jpg" height="40" alt="image not found"> PureCode <abbr title="Artificial intelligence"
+                    style="color: blue;">AI</abbr>
+            </h1>
+        </main>
+    
+        <div class="content"
+            style="background-color: rgb(194, 55, 55); margin-top: 15%; color: white; margin: 70px; padding: 20px;">
+            <div class="container">
+                <p style="text-align: right; font-size: 25px;"> max no: of Applicant <span
+                        class="badge badge-primary">10</span></p>
+                <h2>Tech courses</h2>
+                <p>There are a lot of things you can learn under these courses. When we talk about tech it is a very broad
+                    aspect that most people don't know. What you need to understand is that one need to go make research on
+                    the different kind of tech courses you have. To know that,<mark
+                        style="background-color: black; color: white;">LATECH</mark> is ready to provide it for you. so
+                    click the botton below to learn more about it.</p>
+                <a class="botton btn-danger" style="border: 2px solid black;" href="#">Learn more</a>
+    
+                <p>Also you can track your progress on our webpage at any time. This will help you to work much better and
+                    faster.</p>
+                <div class="progress">
+                    <div class="progress-bar" style="width: 10%;">10%</div>
+                  
+                    <ul class="pagination">
+                        <li class="page-item">
+                            <a class="page-link" href="file:///C:/Users/DELL/Desktop/ACP/project17/B22">1</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>
